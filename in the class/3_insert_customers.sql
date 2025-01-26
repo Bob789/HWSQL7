@@ -1,0 +1,10 @@
+INSERT INTO customers (name, country) VALUES ('Eddard Stark', 'Westeros');
+INSERT INTO customers (name, country) VALUES ('Daenerys Targaryen', 'Essos');
+INSERT INTO customers (name, country) VALUES ('Jon Snow', 'Westeros');
+INSERT INTO customers (name, country) VALUES ('Arya Stark', 'Westeros');
+INSERT INTO customers (name, country) VALUES ('Cersei Lannister', 'Westeros');
+INSERT INTO customers (name, country) VALUES ('Tyrion Lannister', 'Westeros');
+INSERT INTO customers (name, country) VALUES ('Sansa Stark', 'Westeros');
+INSERT INTO customers (name, country) VALUES ('Bran Stark', 'Westeros');
+INSERT INTO customers (name, country) VALUES ('Jaime Lannister', 'Westeros');
+INSERT INTO customers (name, country) VALUES ('Jorah Mormont', 'Essos');
